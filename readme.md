@@ -79,7 +79,7 @@ FONTS</br>
 "https://fonts.googleapis.com/css?family=Aladin|Alegreya|Grand+Hotel|Roboto" rel"stylesheet"</br>
 
 font-family: 'Roboto', sans-serif; "titles"</br>
-font-family: 'Alegreya', serif; "regular texts"</br></br>
+font-family: 'Alegreya', serif; "regular texts"</br>
 
 logo: font? size? colors? stroke?</br>
 font-family: 'Grand Hotel', cursive; "guessin'"<br>
