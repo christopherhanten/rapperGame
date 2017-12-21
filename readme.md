@@ -1,3 +1,18 @@
+Rapper Guessin' Game
+
+This is will be a simple game in which a user will click a button and a snippet of rapping will play. The user will be given a list of rappers to choose which is being played in the snippet.
+
+Guesses will be made via radio buttons. If the user guesses correctly, they will be displayed a next button, else, the snippet will play again until they answer correctly.
+
+Upon correct answer, a picture of the rapper will be displayed.
+
+At the end of the round, all of the rappers' pictures will be displayed as well as links to their wikipedia pages.
+
+I have some stretch goals of:
+- user name creation (persisted) and login functionality.
+- have buttons to select different eras of hip hop history. (1979-1989; 1989-1995; 1995-2005, 2005-present)
+- I'd also like to have a 'learn your hip hip history' links.
+
 MVP
 
 Please see : https://github.com/christopherhanten/rapperGame/blob/master/wireframish.jpg
