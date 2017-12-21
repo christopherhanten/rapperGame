@@ -74,7 +74,7 @@ So that I can play for longer.</br></br>
 //So that I can display them when the user guesses the correct rapper.</br></br>
 
 OPEN QUESTIONS</br>
-<br>
+[a link]<link href="https://fonts.googleapis.com/css?family=Aladin|Alegreya|Grand+Hotel|Roboto" rel="stylesheet">
 
 fonts: which? size?</br>
 font-family: 'Roboto', sans-serif; "titles"</br>
@@ -84,7 +84,7 @@ logo: font? size? colors? stroke?</br>
 font-family: 'Grand Hotel', cursive; "guessin'"<br>
 font-family: 'Aladin', cursive; "rapper""game"</br></br>
 
-<link href="https://fonts.googleapis.com/css?family=Aladin|Alegreya|Grand+Hotel|Roboto" rel="stylesheet">
+
 
 
 song snippets: how to get? how long? format?</br></br>
