@@ -94,4 +94,5 @@ color pallet:</br>
 navy: background: #001f3f</br>
 silver: radio (unchecked), text: #DDDDDD</br>
 crimson: buttons and accents: #DC143C</br>
-gold: logo, accents, selections:</br> https://www.photoshopessentials.com/photoshop-text/text-effects/gold/</br>
+gold: logo, correct text</br> https://www.photoshopessentials.com/photoshop-text/text-effects/gold/</br>
+gold: upon click (choices), accents: #e6c200
