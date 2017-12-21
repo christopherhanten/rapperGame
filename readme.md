@@ -75,7 +75,9 @@ So that I can play for longer.</br></br>
 
 OPEN QUESTIONS</br>
 
-<link href="https://fonts.googleapis.com/css?family=Aladin|Alegreya|Grand+Hotel|Roboto" rel="stylesheet"><br>
+<link href="https://fonts.googleapis.com/css?family=Aladin|Alegreya|Grand+Hotel|Roboto" rel="stylesheet">
+
+<br>
 
 fonts: which? size?</br>
 font-family: 'Roboto', sans-serif; "titles"</br>
