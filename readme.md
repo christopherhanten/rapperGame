@@ -73,8 +73,8 @@ So that I can play for longer.</br></br>
 //I want to be able to add photos to the game</br>
 //So that I can display them when the user guesses the correct rapper.</br></br>
 
-OPEN QUESTIONS</br>
 
+FONTS</br>
 //<link href=
 "https://fonts.googleapis.com/css?family=Aladin|Alegreya|Grand+Hotel|Roboto" rel"stylesheet"</br>
 fonts: which? size?</br>
@@ -87,7 +87,7 @@ font-family: 'Aladin', cursive; "rapper""game"</br></br>
 
 
 
-
+OPEN QUESTIONS</br>
 song snippets: how to get? how long? format?</br></br>
 links: wikipedia for rappers? personal pages?</br></br>
 pics: from where? screen grabs? what size?</br></br>
