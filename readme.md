@@ -89,7 +89,10 @@ font-family: 'Aladin', cursive; "rapper""game"</br></br>
 
 OPEN QUESTIONS</br>
 song snippets: how to get? how long? format?</br></br>
-links: wikipedia for rappers? personal pages?</br></br>
+links: wikipedia for rappers? personal pages?</br>
+https://en.wikipedia.org/wiki/Hip_hop</br>
+The Social Significance of Rap & Hip-Hop Culture
+https://web.stanford.edu/class/e297c/poverty_prejudice/mediarace/socialsignificance.htm</br>
 pics: from where? screen grabs? what size?</br></br>
 hip hop history: wikipedia? best HHH pages?</br></br>
 buttons: start game, speaker icon, next, start over</br></br>
