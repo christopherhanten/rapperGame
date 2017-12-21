@@ -76,18 +76,18 @@ So that I can play for longer.</br></br>
 
 OPEN QUESTIONS</br>
 fonts: which? size?</br>
-font-family: 'Roboto', sans-serif; "titles"
+font-family: 'Roboto', sans-serif; "titles"</br>
 font-family: 'Alegreya', serif; "regular texts"</br></br>
 
 logo: font? size? colors? stroke?</br>
-font-family: 'Grand Hotel', cursive; "guessin'"
+font-family: 'Grand Hotel', cursive; "guessin'"<br>
 font-family: 'Aladin', cursive; "rapper""game"</br></br>
 
-song snippets: how to get? how long? format?</br>
-links: wikipedia for rappers? personal pages?</br>
-pics: from where? screen grabs? what size?</br>
-hip hop history: wikipedia? best HHH pages?</br>
-buttons: start game, speaker icon, next, start over</br>
+song snippets: how to get? how long? format?</br></br>
+links: wikipedia for rappers? personal pages?</br></br>
+pics: from where? screen grabs? what size?</br></br>
+hip hop history: wikipedia? best HHH pages?</br></br>
+buttons: start game, speaker icon, next, start over</br></br>
 
 color pallet:</br>
 navy: background: #001f3f</br>
