@@ -1,7 +1,6 @@
 Rapper Guessin' Game</br></br>
 
 DESCRIPTION</br>
-
 Rapper Guessin' Game will be a simple game in which a user will click a button, and a snippet of rapping will play. The user will be given a list of rappers to choose which is being played in the snippet.</br></br>
 
 Guesses will be made via radio buttons. If the user guesses correctly, they will be displayed a next button, else, the snippet will play again until they answer correctly.</br></br>
