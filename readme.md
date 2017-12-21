@@ -94,7 +94,7 @@ pics: from where? screen grabs? what size?</br></br>
 hip hop history: wikipedia? best HHH pages?</br></br>
 buttons: start game, speaker icon, next, start over</br></br>
 
-color pallet:</br>
+color palette:</br>
 navy: background: #001f3f</br>
 silver: radio (unchecked), text: #DDDDDD</br>
 crimson: buttons and accents: #DC143C</br>
