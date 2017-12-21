@@ -69,13 +69,6 @@ I want to be able to start a new game</br>
 So that I can play for longer.</br></br>
 
 //STRETCH GOALS</br>
-//As a user</br>
-//I want to be able to create an account with a username</br>
-//So that I can store my scores.</br></br>
-
-//As a developer</br>
-//I want to be able to store user data</br>
-//So that they can access their account each time they want to play.</br></br>
 
 //As a developer</br>
 //I want to be able to add photos to the game</br>
@@ -83,7 +76,13 @@ So that I can play for longer.</br></br>
 
 OPEN QUESTIONS</br>
 fonts: which? size?</br>
+font-family: 'Roboto', sans-serif; "titles"
+font-family: 'Alegreya', serif; "regular texts"</br></br>
+
 logo: font? size? colors? stroke?</br>
+font-family: 'Grand Hotel', cursive; "guessin'"
+font-family: 'Aladin', cursive; "rapper""game"</br></br>
+
 song snippets: how to get? how long? format?</br>
 links: wikipedia for rappers? personal pages?</br>
 pics: from where? screen grabs? what size?</br>
