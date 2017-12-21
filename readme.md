@@ -9,7 +9,7 @@ Upon correct answer, a picture of the rapper will be displayed.</br></br>
 
 At the end of the round, all of the rappers' pictures will be displayed as well as links to their wikipedia pages.</br></br>
 
-I have some stretch goals of:</br>
+I have some stretch goals of:
 - have buttons to select different eras of hip hop history. (1979-1989; 1989-1995; 1995-2005, 2005-present)</br>
 - I'd also like to have a 'learn your hip hip history' links.</br>
 - I'd like to also, if I can and have time, add a clock to keep time.</br></br>
