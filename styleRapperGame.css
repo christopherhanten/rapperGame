@@ -1,0 +1,34 @@
+h1 {/*SanityCheck*/
+  color: #DC143C;
+  font-size: 55px;
+  -webkit-text-stroke: 1px silver;
+}
+body {
+  background-color: #001f3f;
+}
+.topNav {
+  color: #DDDDDD;
+}
+.rapperGameLogo {
+  color: gold;
+  font-size: 55px;
+}
+.songSnippets {
+  color: #DDDDDD;
+  font-size: 25px;
+}
+.rapperChoices {
+  color: #DDDDDD;
+  font-size: 25px;
+}
+.rapperPix {
+  color: #DC143C;
+  font-size: 25px;
+}
+.rapperLinks {
+  color: #DC143C;
+  font-size: 25px;
+}
+.bottomNav {
+  color: #DDDDDD;
+}
