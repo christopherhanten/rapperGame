@@ -12,6 +12,9 @@ body {
 .rapperGameLogo {
   color: gold;
   font-size: 55px;
+  background-color: 001f3f;
+  margin-left: 45px;
+  image width:0 auto;
 }
 .songSnippets {
   color: grey;
