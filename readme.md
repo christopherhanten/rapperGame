@@ -102,4 +102,4 @@ navy: background: #001f3f</br>
 silver: radio (unchecked), text: #DDDDDD</br>
 crimson: buttons and accents: #DC143C</br>
 gold: logo, correct text</br> https://www.photoshopessentials.com/photoshop-text/text-effects/gold/</br>
-gold: upon click (choices), accents: #e6c200
+gold: upon click (choices), accents: #0x9a7c08
