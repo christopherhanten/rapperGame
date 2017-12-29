@@ -73,6 +73,6 @@ let	rapper30	= new Rapper
 Let rapper 31 = new Rapper
   ("Nas","Nasir Jones","July 27, 1998","New York, New York","some song","some lyric","some picture");
 let rapper 32 = new rapper
-  ("Nas","Nasir Jones","July 27, 1998","New York, New York","some song","some lyric","some picture");
+  ("E-40","Earl Stephens","July 27, 1998","Valejo, California","some song","some lyric","some picture");
 
 console.log(rapper16);
