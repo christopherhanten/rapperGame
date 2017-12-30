@@ -11,7 +11,7 @@ function Rapper(name, birthName, dateOfBirth, song, lyric, picture){
   this.picture     = picture;
 }
 let	rapper1	 = new Rapper
-  ("Pimp C","Chad Butler","December 29, 1973","Port Arthur Texas","some song","some lyric","some picture");
+  ("Pimp C","Chad Butler","December 29, 1973","Port Arthur Texas","some song","some lyric", "some picture";
 let	rapper2	 = new Rapper
   ("Gucci Mane","Radric Davis","February 12, 1980","Atlanta, Georgia","some song","some lyric","some picture");
 let	rapper3	 = new Rapper
@@ -70,9 +70,7 @@ let	rapper29	= new Rapper
   ("2Pac","Lesane Parish Crooks","June 16, 1971","New York, New York","some song","some lyric","some picture");
 let	rapper30	= new Rapper
   ("Nick Grant","Nick Grant","July 27, 1998","Walterboro, South Carolina","some song","some lyric","some picture");
-Let rapper 31 = new Rapper
+let rapper31  = new Rapper
   ("Nas","Nasir Jones","July 27, 1998","New York, New York","some song","some lyric","some picture");
-let rapper 32 = new rapper
+let rapper32  = new Rapper
   ("E-40","Earl Stephens","July 27, 1998","Valejo, California","some song","some lyric","some picture");
-
-console.log(rapper16);

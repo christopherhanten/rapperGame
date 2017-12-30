@@ -1,4 +1,7 @@
 Rapper Guessin' Game</br></br>
+updates:
+I am rethinking how this is going to work.
+At first I wanted to have a button to press to play a song snippet. Now I think that I am just going to start the snippet on page load. I think that will be easier.
 
 DESCRIPTION</br>
 Rapper Guessin' Game will be a simple game in which a user will click a button, and a snippet of rapping will play. The user will be given a list of rappers to choose which is being played in the snippet.</br></br>
