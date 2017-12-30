@@ -5,6 +5,7 @@ h1 {/*SanityCheck*/
 }
 body {
   background-color: #001f3f;
+  margin: 0 auto;
 }
 .topNav {
   color: #DDDDDD;
@@ -37,4 +38,7 @@ body {
 }
 .bottomNav {
   color: #DDDDDD;
+}
+.refresh2 {
+  float: left;
 }
