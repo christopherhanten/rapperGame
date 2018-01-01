@@ -1,20 +1,21 @@
 //SanityCheck
 alert("biggo");
 
-let audioElement = document.createElement('audio');
-audioElement.setAttribute('src', 'loading.mp3');
-audioElement.play();
-
-var audioElement = document.createElement('audio');
-audioElement.setAttribute('src', 'Mogwai2009-04-29_acidjack_t16.ogg');
-audioElement.load()
-audioElement.addEventListener("load", function() {
-  audioElement.play();
-  $(".duration span").html(audioElement.duration);
-  $(".filename span").html(audioElement.src);
-}, true);
-
-
+// let audioElement = document.createElement('audio');
+// audioElement.setAttribute('src', 'test12.mp3');
+// audioElement.load()
+// audioElement.getElementById = "submitGuess".addEventListener("load", function() {
+//   audioElement.play();
+//   $(".duration span").html(audioElement.duration);
+//   $(".filename span").html(audioElement.src);
+// },
+// true);
+//
+// audioElement.src;
+// audioElement.duration;
+//
+// audioElement.currentTime=35;ß
+// audioElement.play();
 
 
 
