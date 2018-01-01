@@ -17,6 +17,23 @@ alert("biggo");
 // audioElement.currentTime=35;ß
 // audioElement.play();
 
+audio = $'', {
+‘loop’	    : 'Rapper1',
+‘autoplay’	: ‘autoplay’
+});
+
+if (audio[0].canPlayType(‘audio/mpeg’)){
+$(”, {
+‘src’	: ‘test12.mp3’,
+‘type’	: ‘audio/mpeg’
+}).appendTo(audio);
+}
+if (audio[0].canPlayType(‘audio/ogg’)){
+$(”, {
+‘src’	  : ‘/audio/le.og’,
+‘type’	: ‘audio/mpeg’
+}).appendTo(audio);
+}
 
 
 
